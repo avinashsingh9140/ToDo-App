@@ -1,4 +1,4 @@
-# <h1 align = "center"> todo App Spring_Boot & Using  ArrayList</h1>
+# <h1 align = "center"> ToDo App Spring_Boot & Using  ArrayList</h1>
 ___ 
 <p align="center">
 <a href="Java url">
@@ -18,7 +18,7 @@ ___
 
 <!-- Project Description -->
 ## Overview
-<p align="center">This project, named "User Management System," is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting user information. 
+<p align="center">This project, named "ToDo App" is a robust Spring Boot application designed for managing user data efficiently. It provides a set of API endpoints that allow you to perform various operations on user records, such as adding, retrieving, updating, and deleting user information. 
 </p>
 
 <!-- Table of Contents -->
@@ -45,16 +45,15 @@ ___
 
 <!-- Key Features -->
 ## Key Features
-- Add Users
-- Get All Users.
-- Get User Details By Id.
-- Delete User By Id.
-- Update User Id
+- Post-Mapping
+- Get-Mapping
+- Put-Mapping
+- Delete-Mapping
 
 <!-- Usage -->
 ## Usage
 - Access the application at `http://localhost:8080`.
-- Use the provided API endpoints to manage your User Management.
+- Use the provided API endpoints to manage your Todo App.
 
 ### Controller:
 - It consists of a class named APIController which basically controls the flow of data.
